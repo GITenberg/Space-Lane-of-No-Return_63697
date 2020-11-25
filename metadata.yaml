@@ -10,12 +10,17 @@ contributor:
     deathdate: 2003
     gutenberg_agent_id: '52468'
     url: http://www.gutenberg.org/2009/agents/52468
+covers:
+- cover_type: archival
+  image_path: 63697-h/images/cover.jpg
 creator:
   author:
     agent_name: Whittington, George A.
     gutenberg_agent_id: '52361'
     url: http://www.gutenberg.org/2009/agents/52361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63697#Space-Lane-of-No-Return
 gutenberg_issued: '2020-11-10'
 gutenberg_type: Text
 identifiers:
