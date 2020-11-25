@@ -1,0 +1,37 @@
+_repo: Space-Lane-of-No-Return_63697
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leydenfrost, Harry
+    aliases:
+    - Leydenfrost, Harold Bernard
+    - Leidenfrost, Harry
+    birthdate: 1923
+    deathdate: 2003
+    gutenberg_agent_id: '52468'
+    url: http://www.gutenberg.org/2009/agents/52468
+creator:
+  author:
+    agent_name: Whittington, George A.
+    gutenberg_agent_id: '52361'
+    url: http://www.gutenberg.org/2009/agents/52361
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Asteroid belt -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Space-Lane of No-Return
+url: http://www.gutenberg.org/ebooks/63697
